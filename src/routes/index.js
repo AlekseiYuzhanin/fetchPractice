@@ -1,5 +1,5 @@
 import { createWebHistory, createRouter } from "vue-router";
-import HomePage from "@/App"
+import HomePage from "@/components/HomePage"
 import Registration from "@/components/SamohodRegistration";
 import Login from "@/components/SamohodLogin";
 import Cart from "@/components/SamohodCart";
